@@ -47,3 +47,17 @@ h1 {
   width: 55%;
   font-size: 1.25rem;
 }
+
+@media screen and (max-width: 700px) {
+  .container {
+    max-width: 450px;
+    padding: 0;
+  }
+  nav {
+    max-width: 25%;
+  }
+  .conteudo {
+    margin: 0;
+    padding: 10px;
+  }
+}

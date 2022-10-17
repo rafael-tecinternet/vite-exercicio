@@ -10,8 +10,7 @@ const HeavyMetal = () => {
         Animi, natus repellat, ducimus ipsum, officia unde velit excepturi
         cumque sunt quasi porro architecto quod accusantium cupiditate odio
         ratione aliquam soluta suscipit. Inventore quia impedit eveniet ratione
-        nihil ex sequi praesentium expedita! Optio sapiente officiis error
-        facilis ipsam non suscipit.
+        nihil ex sequi.
       </p>
     </>
   );
