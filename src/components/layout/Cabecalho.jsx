@@ -1,9 +1,7 @@
-import Menu from "../Menu";
-
 const Cabecalho = () => {
   return (
     <header>
-      <Menu />
+      <h1>Exercício React</h1>
     </header>
   );
 };
